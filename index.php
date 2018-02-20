@@ -27,9 +27,11 @@
 				});
 			});
 		</script>
-		<input id="baconButton" type="button" value="Give me bacon">
-		<div id="baconIpsumOutput" style="width: 80vw; margin: auto;">
-			<p></p>
+		<div style="width: 80vw; margin: auto;">
+			<input id="baconButton" type="button" value="Give me bacon">
+			<div id="baconIpsumOutput">
+				<p></p>
+			</div>
 		</div>
 	</body>
 </html>
