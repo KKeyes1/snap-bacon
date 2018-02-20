@@ -28,7 +28,7 @@
 			});
 		</script>
 		<input id="baconButton" type="button" value="Give me bacon">
-		<div id="baconIpsumOutput">
+		<div id="baconIpsumOutput" style="width: 80vw; margin: auto;">
 			<p></p>
 		</div>
 	</body>
